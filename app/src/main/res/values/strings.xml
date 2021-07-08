@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrQueryApp</string>
+    <string name="flickrApiBaseUrl">https://www.flickr.com/services/rest/</string>
+    <string name="flickrApiQueryMethod">flickr.photos.search</string>
+    <string name="flickrApiKey">062a6c0c49e4de1d78497d13a7dbb360</string>
+    <string name="search_query">Enter search query</string>
+    <string name="search_button_text">Search</string>
+</resources>
