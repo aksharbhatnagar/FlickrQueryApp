@@ -9,4 +9,6 @@ Simple Android app to query images from Flickr REST API based on keyword search 
 
 
 ### API used:
-[Flickr photo seacrh method](https://www.flickr.com/services/api/flickr.photos.search.html) of the [Flickr REST API](https://www.flickr.com/services/api/)
+- [Flickr photo seacrh method](https://www.flickr.com/services/api/flickr.photos.search.html) of the [Flickr REST API](https://www.flickr.com/services/api/)
+
+This is a paginated API, so functionality has been added to query and load the next page when we have scrolled to the end of the RecyclerView.
